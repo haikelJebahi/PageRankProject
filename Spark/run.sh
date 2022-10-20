@@ -25,7 +25,7 @@ gsutil rm -rf gs://haivin/out
 
 ## run
 ## (suppose that out directory is empty !!)
-gcloud dataproc jobs submit pyspark --region europe-west1 --cluster cluster-a35a gs://haivin/pagerank_spark.py  -- gs://haivin/page_links_en.nt.bz2 3 gs://haivin/spark-out/
+gcloud dataproc jobs submit pyspark --region europe-west1 --cluster cluster-a35a  gs://haivin/pagerank_spark.py -- gs://public_lddm_data/page_links_en.nt.bz2 3 
 
 ## delete cluster...
 gcloud dataproc clusters delete cluster-a35a --region europe-west1
