@@ -1,5 +1,8 @@
 # PageRankProject
+# Contributeurs
 
+- Jebahi Haïkel 
+- Malezy Vincent
 
 # performances sur pagerank implantation Pig 
 
@@ -25,10 +28,13 @@ Nous nous sommes aidés des codes disponibles sur le dépôt : https://github.co
 
 
 
-image::img/graph_perf.png[]
-
+# Résultat Pig x Spark
+Afin de comparer tous nos résultats, nous les avons rassemblés dans un diagramme : 
+ 
 ![Screenshot](img/graph_perf.png)
 
-image::img/graph_perf.png
+# Meilleur page ranks
 
-image::img/graph_perf.png[]
+* http://dbpedia.org/resource/Living_people,  36794.331467544755
+
+
