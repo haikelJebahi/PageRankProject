@@ -4,7 +4,7 @@
 - Jebahi Haïkel 
 - Malezy Vincent
 
-# performances sur pagerank implantation Pig 
+# Performances sur pagerank implantation Pig 
 
 Les données ont été récupérés sur : gs:///public_lddm_data/
 Nous nous sommes aidés des codes disponibles sur le dépôt : https://github.com/momo54/large_scale_data_management
@@ -18,7 +18,7 @@ Nous nous sommes aidés des codes disponibles sur le dépôt : https://github.co
 | 5 noeuds          | 31 min 28 s             |
 
 
-# performances sur pagerank implantation Spark
+# Performances sur pagerank implantation Spark
 
 | Nombre de noeuds  | Durée écoulée           | 
 |-------------------|-------------------------|
