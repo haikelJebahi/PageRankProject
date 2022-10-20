@@ -26,3 +26,9 @@ Nous nous sommes aidés des codes disponibles sur le dépôt : https://github.co
 
 
 image::img/graph_perf.png[]
+
+![Screenshot](img/graph_perf.png)
+
+image::img/graph_perf.png
+
+image::img/graph_perf.png[]
