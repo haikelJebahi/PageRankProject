@@ -25,4 +25,4 @@ Nous nous sommes aidés des codes disponibles sur le dépôt : https://github.co
 
 
 
-
+image::img/graph_perf.png[]
